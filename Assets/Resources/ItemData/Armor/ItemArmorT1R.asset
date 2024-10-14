@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 27e7bf4a73c0c4f009a5c4dcd33ab39f, type: 3}
+  m_Name: ItemArmorT1R
+  m_EditorClassIdentifier: 
+  itemID: 212
+  itemName: "\uC720\uC5F0\uAC11\uC637"
+  itemImage:
+  - {fileID: 21300000, guid: 2475f67fc728bdc4d83baaba6430221d, type: 3}
+  - {fileID: -3992137426342128158, guid: 2e0c5f8207e25394c9dbd30d48119a08, type: 3}
+  - {fileID: -1120026500337400717, guid: 2e0c5f8207e25394c9dbd30d48119a08, type: 3}
+  - {fileID: -1554369935797715747, guid: 2e0c5f8207e25394c9dbd30d48119a08, type: 3}
+  description: "\uC218\uC120\uD55C \uAC00\uC8FD\uC637 "
+  itemType: 1
+  rarity: 1
+  soulCost: 200
+  enchantLvl: 0
+  itemStat1: 4
+  statValue1: 100
+  enchantFactor1: 10
+  itemStat2: 15
+  statValue2: 0.4
+  enchantFactor2: 0.01
+  attackIcon: {fileID: 0}
+  skillIcon: {fileID: 0}
+  skillCoolTime: 0

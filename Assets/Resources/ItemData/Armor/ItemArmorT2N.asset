@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 27e7bf4a73c0c4f009a5c4dcd33ab39f, type: 3}
+  m_Name: ItemArmorT2N
+  m_EditorClassIdentifier: 
+  itemID: 221
+  itemName: "\uADE0\uB4F1\uAC11\uC637"
+  itemImage:
+  - {fileID: 21300000, guid: ffbced8141b6e7340958f10ef93234be, type: 3}
+  - {fileID: 7505278090536262311, guid: da582a3a73bfdee4a8e85242789802fa, type: 3}
+  - {fileID: 2525852049797594121, guid: da582a3a73bfdee4a8e85242789802fa, type: 3}
+  - {fileID: -2016631381429734677, guid: da582a3a73bfdee4a8e85242789802fa, type: 3}
+  description: "\uB179\uC2A8 \uCCB4\uC778\uBA54\uC77C "
+  itemType: 1
+  rarity: 0
+  soulCost: 100
+  enchantLvl: 0
+  itemStat1: 4
+  statValue1: 150
+  enchantFactor1: 15
+  itemStat2: 15
+  statValue2: 0.2
+  enchantFactor2: 0.01
+  attackIcon: {fileID: 0}
+  skillIcon: {fileID: 0}
+  skillCoolTime: 0
